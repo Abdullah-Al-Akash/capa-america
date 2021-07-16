@@ -301,6 +301,10 @@ footer p {
                 flex-direction: column;
                 flex-wrap: wrap;
         }
+        th, td {
+                padding: 0px;
+                margin: 0px;
+        }
         .score-table {
                 margin-left: 0;
                 margin-right: 0;
